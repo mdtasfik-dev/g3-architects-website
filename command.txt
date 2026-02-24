@@ -13,6 +13,3 @@ git push -u origin main
 
 
 
-git add .
-git commit -m "Added Work Sans Google Fonts"
-git push
