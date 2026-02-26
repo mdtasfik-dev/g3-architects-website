@@ -13,3 +13,6 @@ git push -u origin main
 
 
 
+git add .
+git commit -m "Implemented header layout with navbar, banner and responsive media query"
+git push
